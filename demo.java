@@ -1,2 +1,0 @@
-"hello emo " 
-"current Date "
