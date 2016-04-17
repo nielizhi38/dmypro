@@ -10,3 +10,10 @@ yootk
 =======
 .COM"wo shi brh "
 >>>>>>> brh
+
+
+public class Hello{
+	public static final String test(){
+		
+	}
+}
