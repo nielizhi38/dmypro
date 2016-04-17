@@ -5,4 +5,8 @@
 "world .good"
 yootk
 上面add 还没有commit
+<<<<<<< HEAD
  in new brh branch"hello new year" 
+=======
+.COM"wo shi brh "
+>>>>>>> brh
