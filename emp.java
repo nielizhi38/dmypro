@@ -1,3 +1,0 @@
-publick class Emp ser{
-	
-}
